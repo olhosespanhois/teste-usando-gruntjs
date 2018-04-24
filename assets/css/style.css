@@ -1,0 +1,18 @@
+/* line 1, ../_sass/sass/main.scss */
+body {
+  font: "Open Sans", sans-serif 16px 400;
+}
+
+/* line 4, ../_sass/sass/main.scss */
+.box-main {
+  background: #eff3f6;
+}
+/* line 6, ../_sass/sass/main.scss */
+.box-main a {
+  color: #fff;
+}
+
+/* line 11, ../_sass/sass/main.scss */
+aside.sidebar {
+  backgroud: #3c3c3c;
+}

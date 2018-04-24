@@ -1,0 +1,15 @@
+body{
+	font: $font_body;
+}
+.box-main{
+	background:#eff3f6;
+	a{
+			color:$white;
+	}
+}
+aside{
+	&.sidebar{
+		backgroud:#3c3c3c;
+
+	}
+}

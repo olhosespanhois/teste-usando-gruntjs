@@ -1,0 +1,14 @@
+{
+	"name": "OriginalMy",
+	"title": "Teste OriginalMy",
+	"version": "0.0.1",
+	"devDependencies": {
+		"grunt": "^1.0.2",
+		"grunt-contrib-compass": "^1.1.1",
+		"grunt-contrib-uglify": "^3.3.0",
+		"grunt-contrib-watch": "^1.0.1"
+	},
+	"dependencies": {
+		"node-sass": "^4.8.3"
+	}
+}
